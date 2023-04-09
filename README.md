@@ -15,7 +15,8 @@
     Visualization in Python and Tkinter. 
 
 
-📝 I write at ...{orangekyle.wixsite.com/website}
+📝 [I write at...](https://orangekyle.wixsite.com/website)
+
 
     I like to write my mind out. You can find articles on different/random topics here.
 
