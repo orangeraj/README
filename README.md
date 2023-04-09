@@ -22,9 +22,8 @@
 
 
 📫 How to reach me
-
-    * [Twitter](https://twitter.com/doitwithraj)
-    * [LinkedIn](https://www.linkedin.com/in/rajas-mhatre-463b79102/)
+* [Twitter](https://twitter.com/doitwithraj)
+* [LinkedIn](https://www.linkedin.com/in/rajas-mhatre-463b79102/)
     
 
 
