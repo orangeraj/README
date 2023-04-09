@@ -1,4 +1,4 @@
-👋 {rajasmhatre.netlify.app}
+👋 {[rajasmhatre.io](rajasmhatre.netlify.app)}
 
 
 👨🏻‍💻 🇮🇳 Who am I
@@ -23,9 +23,8 @@
 
 📫 How to reach me
 
-    Blog
-    Twitter
-    LinkedIn
-    Stack overflow
+    [Twitter](https://twitter.com/doitwithraj)
+    [LinkedIn](https://www.linkedin.com/in/rajas-mhatre-463b79102/)
+    
 
 
