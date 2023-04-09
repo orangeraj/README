@@ -1,4 +1,4 @@
-# 👋  {[rajasmhatre](rajasmhatre.netlify.app)}
+# 👋  [rajasmhatre](rajasmhatre.netlify.app)
 
 
 👨🏻‍💻 🇮🇳 Who am I
