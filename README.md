@@ -9,7 +9,8 @@
 
 
 🌱 I’m currently learning about ...
-
+    
+    Python GUI/ Tkinter
     Security Testing and APIs.
     Lending and banking concepts. 
     Visualization in Python and Tkinter. 
